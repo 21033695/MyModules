@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="textViewC346">C346 Android Programming</string>
+    <string name="textViewC206">C206 Software Development Process</string>
+    <string name="moduleCode">Module Code Text</string>
+    <string name="moduleName">Module Name Text</string>
+    <string name="year">Academic Year Text</string>
+    <string name="semester">Semester Text</string>
+    <string name="moduleCredit">Module Credit Text</string>
+    <string name="venue">Venue Text</string>
+</resources>
